@@ -1,0 +1,93 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+
+}
+
+.barratransparente {
+
+    color: #ffffff;
+    font-family: 'Montserrat Alternates', sans-serif;
+
+
+}
+
+.textocentral1 {
+    text-align: center;
+    background-color: #000000;
+    color: #ffffff;
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+
+body {
+    background-color: #000000;
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+
+
+.card {
+    text-align: center;
+    background-color: #000000;
+    color: #ffffff;
+    font-family: 'Montserrat Alternates', sans-serif;
+
+}
+
+.iconos1 {
+    background-color: rgb(100, 200, 233);
+    color: #ffffff;
+    height: 20px;
+}
+
+.cards4 {
+    padding: 50px;
+    margin: 100px;
+    height: auto;
+    width: auto;
+    padding-inline-start: 100px;
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+
+.menu2 {
+    text-align: right;
+    font-family: 'Montserrat Alternates', sans-serif;
+    padding-left: 100px;
+}
+
+.form1 {
+    color: #ffffff;
+    padding-left: 150px;
+    padding-right: 150px;
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+
+.textocentral2 {
+    color: #ffffff;
+    font-family: 'Montserrat Alternates', sans-serif;
+    text-align: center;
+}
+
+.fondotexto2 {
+    background-color: rgb(100, 200, 233);
+    font-family: 'Montserrat Alternates', sans-serif;
+
+
+}
+
+.viajes1c {
+    padding-left: 150px;
+    font-family: 'Montserrat Alternates', sans-serif;
+
+}
+
+.viajes2c {
+
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+
+
+
+html {
+    scroll-behavior: smooth;
+}
